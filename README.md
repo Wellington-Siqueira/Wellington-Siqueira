@@ -1,7 +1,6 @@
 # Olá, meu nome é Wellington <img align="center" alt="Wellington" height="70" width="80" src="https://media.giphy.com/media/aYKTYtCYb2ECSKfyal/giphy.gif">
 - Estudante de Análise e Desenvolvimento de Sistemas 💻
 - Mauá, São Paulo, Brasil :city_sunrise:
-- Eu estudo atualmente Flutter, React-Native e Python 📚
  <div>
   <a href="https://github.com/Wellington-Siqueira/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wellington-Siqueira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
